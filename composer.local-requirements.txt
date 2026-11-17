@@ -1,0 +1,11 @@
+Recommended Symfony packages for this starter:
+
+symfony/orm-pack
+symfony/messenger
+symfony/scheduler
+symfony/mailer
+elasticsearch/elasticsearch
+
+Install with:
+
+docker compose exec php composer require symfony/orm-pack symfony/messenger symfony/scheduler symfony/mailer elasticsearch/elasticsearch
